@@ -1,0 +1,8 @@
+From JAVA
+http://stackoverflow.com/questions/37398898/firebase-notifications-through-server-side-code
+
+http://stackoverflow.com/questions/37426542/firebase-cloud-messaging-notification-from-java-instead-of-firebase-console
+
+In Android
+http://stackoverflow.com/questions/38432243/how-to-send-device-to-device-notification-by-using-fcm-without-using-xmpp-or-any
+
